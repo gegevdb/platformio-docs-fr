@@ -13,12 +13,10 @@
 
 .. _piohome:
 
-PlatformIO Home
-===============
+Accueil de PlatformIO
+=====================
 
-|PIOHOME| is a powerful, modern, and interactive user interface (UI) for PlatformIO
-collaborative platform. It's powered by `PlatformIO Labs's Modern UI Toolkit <https://piolabs.com/technology/modern-ui-toolkit.html>`_
-and contains the following key instruments:
+PlatformIO Home est une interface utilisateur puissante, moderne et interactive (UI) pour la plateforme collaborative PlatformIO. Elle est alimentée par la boîte à outils d'interface utilisateur moderne de PlatformIO Labs <https://piolabs.com/technology/modern-ui-toolkit.html>`_ et contient les instruments clés suivants :
 
 * :ref:`pioaccount`
 * Project Management
